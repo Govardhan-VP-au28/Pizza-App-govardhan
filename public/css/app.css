@@ -279,7 +279,7 @@ body {
   font-family: "Lato", sans-serif;
   -webkit-font-smoothing: antialiased;
   color: #232323;
-  background: #9bc5c3;
+  background: #add8e6;
 }
 
 nav li:last-child a {
@@ -297,15 +297,15 @@ nav li a:hover {
 }
 
 section.hero {
-  background: #ff7082;
+  background: #ffb6c1;
 }
 
 section.menu {
-  background: #9bc5c3;
+  background: #add8e6;
 }
 
 .size {
-  background: #ff7082;
+  background: #ffb6c1;
 }
 
 .add-to-cart {
@@ -339,14 +339,14 @@ section.menu {
 }
 
 section.cart {
-  background: #ff7082;
+  background: #ffb6c1;
 }
 section.cart .amount {
   color: #FE5F1E;
 }
 
 section.login {
-  background: #ff7082;
+  background: #ffb6c1;
   min-height: calc(100vh - 86px);
 }
 section.login a {
@@ -366,7 +366,7 @@ a.link {
 }
 
 section.status {
-  background: #ff7082;
+  background: #ffb6c1;
   min-height: calc(100vh - 86px);
 }
 
@@ -393,7 +393,7 @@ section.status {
   height: 10px;
   border-radius: 50%;
   transform: translateY(-50%);
-  box-shadow: 0 0 1px 10px #ff7082;
+  box-shadow: 0 0 1px 10px #ffb6c1;
 }
 
 .status-box ul li span:before {
@@ -443,7 +443,7 @@ section.status {
 }
 
 .status-box ul li:nth-child(5) span:after {
-  box-shadow: 0 20px 1px 20px #ff7082;
+  box-shadow: 0 20px 1px 20px #ffb6c1;
 }
 
 .status-box ul li.step-completed:before {
